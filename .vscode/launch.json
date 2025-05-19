@@ -15,7 +15,8 @@
                 "8000"
             ],
             "jinja": true,
-            "justMyCode": true
+            "justMyCode": true,
+            "preLaunchTask": "build-tailwind"
         }
     ]
 } 
